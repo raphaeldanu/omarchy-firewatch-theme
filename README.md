@@ -5,7 +5,7 @@
 <h1 align="center">Firewatch Night</h1>
 
 <p align="center">
-  An <a href="https://omarchy.org">Omarchy</a> theme pulled from the night sky over the Two Forks lookout:
+  An Firewatch inspired <a href="https://omarchy.org">Omarchy</a> theme pulled from the night sky over the Two Forks lookout:
   deep indigo, violet ridges, a lit amber cabin and cold sky blue.
 </p>
 
