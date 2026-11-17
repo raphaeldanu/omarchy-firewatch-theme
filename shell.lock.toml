@@ -1,0 +1,12 @@
+# Lock screen input, tuned to the Firewatch Night palette.
+text = "#EDE7F6"
+placeholder = "#9A92B5"
+text-error = "#F2637A"
+border = "#6C57A8"
+border-active = "#FFC857"
+border-error = "#F2637A"
+border-alpha = 1.0
+background = "#0B0A22"
+background-alpha = 0.82
+selection = "#FFC857"
+selection-alpha = 0.45
